@@ -1,6 +1,9 @@
 ---
 ---
 /* @import "{{ site.theme }}";  this is the default */
+
+@import url('https://fonts.googleapis.com/css2?family=Gentium+Plus:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+
 @import "https://cdnjs.cloudflare.com/ajax/libs/github-markdown-css/5.2.0/github-markdown.min.css";
 body {
   margin: 0;
@@ -12,12 +15,14 @@ body {
     https://github.com/sindresorhus/github-markdown-css/blob/main/github-markdown.css
     */
     background-color: #ffffff;
+    font-family: "Gentium Plus", serif;
   }
 }
 @media (prefers-color-scheme: dark) {
   body {
     /* --color-canvas-default */
     background-color: #121212;
+    font-family: "Gentium Plus", serif;
   }
 }
 .markdown-body {
