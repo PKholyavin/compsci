@@ -1,6 +1,8 @@
+---
 layout: page
 title: "Деревья в лингвистике"
 permalink: /syntax_trees.html
+---
 
 # Деревья в лингвистике
 
