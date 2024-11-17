@@ -12,9 +12,9 @@ permalink: pronunciation_graphs.html
 
 Например, английское слово *tomato* (&lsquo;помидор&rsquo;) имеет довольно много произносительных вариантов:
 
-- в первом слоге может произноситься как дифтонг /oʊ/[^1], так и безударный гласный /ə/, а ещё звук может выпасть полностью;
-- во втором слоге британец, скорее всего, употребит гласный /ɑː/, а американец &mdash; дифтонг /eɪ/;
-- последний звук /t/ британцем будет произнесён как обычный [t], а американцем &mdash; как звонкий краткий [ɾ].
+- в первом слоге может произноситься как дифтонг <span class="ipa">/oʊ/[^1]</span>, так и безударный гласный <span class="ipa">/ə/</span>, а ещё звук может выпасть полностью;
+- во втором слоге британец, скорее всего, употребит гласный <span class="ipa">/ɑː/</span>, а американец &mdash; дифтонг <span class="ipa">/eɪ/</span>;
+- последний звук <span class="ipa">/t/</span> британцем будет произнесён как обычный <span class="ipa">[t]</span>, а американцем &mdash; как звонкий краткий <span class="ipa">[ɾ]</span>.
 
 Вариант <span class="ipa">[təˈmɑːtoʊ]</span>:
 
@@ -23,7 +23,7 @@ permalink: pronunciation_graphs.html
     Your browser does not support the audio tag.
 </audio>
 
-Вариант [təˈmeɪɾoʊ]:
+Вариант <span class="ipa">[təˈmeɪɾoʊ]</span>:
 
 <audio controls>
     <source src="audio/En-us-tomato.ogg" type="audio/ogg">
@@ -45,10 +45,10 @@ permalink: pronunciation_graphs.html
 <details>
 <summary>Нажмите, чтобы увидеть ответы</summary>
 <ol>
-<li>[təˈmeɪɾoʊ] (что неудивительно)</li><br>
+<li><span class="ipa">[təˈmeɪɾoʊ]</span> (что неудивительно)</li><br>
 <li>0.5 * 0.7 * 0.8 = 0.28</li><br>
 <li>3 * 2 * 2 = 12</li><br>
 </ol>
 </details>
 
-[^1]: В британской транскрипции принят символ /əʊ/
+[^1]: В британской транскрипции принят символ <span class="ipa">/əʊ/</span>
