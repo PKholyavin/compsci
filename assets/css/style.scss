@@ -15,7 +15,6 @@ body {
     https://github.com/sindresorhus/github-markdown-css/blob/main/github-markdown.css
     */
     background-color: #ffffff;
-    font-family: "Gentium Plus", serif;
   }
 }
 @media (prefers-color-scheme: dark) {
@@ -23,9 +22,9 @@ body {
     /* --color-canvas-default */
     background-color: #121212;
   }
-  p {
-    font-family: "Gentium Plus", serif;
-  }
+  // p {
+  //   font-family: "Gentium Plus", serif;
+  // }
 }
 .markdown-body {
   box-sizing: border-box;
