@@ -12,6 +12,12 @@ permalink: test_toc.html
 
 Был тихий серый вечер. Дул ветер, слабый и тёплый.
 
+```python
+import gravity
+for i in range(10):
+    print("something")
+```
+
 ## Текст 2
 
 Был тихий серый вечер. Дул ветер, слабый и тёплый.
