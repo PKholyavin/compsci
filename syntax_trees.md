@@ -1,10 +1,10 @@
 ---
 layout: page
 title: "Деревья в лингвистике"
-permalink: /syntax_trees.html
+permalink: syntax_trees.html
 ---
 
-[Назад](/10a2024.html)
+[Назад](10a2024.html)
 
 # Деревья в лингвистике
 
