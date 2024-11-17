@@ -1,10 +1,10 @@
 ---
 layout: page
 title: "Задание 3 на 18.11.2024 (метро)"
-permalink: /metro_task.html
+permalink: metro_task.html
 ---
 
-[Назад](/10b2024.html)
+[Назад](/compsci/10b2024.html)
 
 # Задание #3 на 18.11.2024 (метро)
 

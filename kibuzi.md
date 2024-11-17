@@ -1,9 +1,9 @@
 ---
 layout: page
 title: "Задача на язык суахили"
-permalink: /kibuzi.html
+permalink: kibuzi.html
 ---
-[Назад](/10b2024.html)
+[Назад](/compsci/10b2024.html)
 
 # Задача на язык суахили ([источник](http://lingproblems.online/index.php?action=problem&pid=1369&vid=1369))
 

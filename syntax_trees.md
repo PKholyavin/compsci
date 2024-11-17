@@ -4,7 +4,7 @@ title: "Деревья в лингвистике"
 permalink: syntax_trees.html
 ---
 
-[Назад](10a2024.html)
+[Назад](/compsci/10a2024.html)
 
 # Деревья в лингвистике
 

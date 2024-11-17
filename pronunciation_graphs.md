@@ -1,10 +1,10 @@
 ---
 layout: page
 title: "Ориентированные графы в лингвистике"
-permalink: /pronunciation_graphs.html
+permalink: pronunciation_graphs.html
 ---
 
-[Назад](/10a2024.html)
+[Назад](/compsci/10a2024.html)
 
 # Направленные графы в лингвистике
 
