@@ -16,7 +16,7 @@ permalink: pronunciation_graphs.html
 - во втором слоге британец, скорее всего, употребит гласный /ɑː/, а американец &mdash; дифтонг /eɪ/;
 - последний звук /t/ британцем будет произнесён как обычный [t], а американцем &mdash; как звонкий краткий [ɾ].
 
-Вариант <ipa>[təˈmɑːtoʊ]</ipa>:
+Вариант <span class="ipa">[təˈmɑːtoʊ]</span>:
 
 <audio controls>
     <source src="audio/En-uk-tomato.ogg" type="audio/ogg">
