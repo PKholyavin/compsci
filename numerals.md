@@ -85,7 +85,7 @@ berr-eun   eta   berr-ogei-ta-hama-sei
 
 <details><summary>Ответ:</summary>
 30 = тридцать ноль <br>
-50 = пятьдцать один
+51 = пятьдцать один
 </details>
 
 
